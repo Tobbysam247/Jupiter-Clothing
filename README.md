@@ -1,6 +1,6 @@
 # 🧥 Jupiter Clothing Sales Performance Dashboard (2022)
 
-This project analyzes the **sales performance of Jupiter Clothing for the year ended 2022** using **Power BI**. The dashboard provides visual insights into sales trends, customer behavior, and product performance across multiple dimensions including sales channels, product categories, sizes, age groups, and gender distribution.
+This project analyzes the **Sales performance of Jupiter Clothing for the year ended 2022** using **Power BI**. The dashboard provides visual insights into sales trends, customer behaviour, and product performance across multiple dimensions including sales channels, product categories, sizes, age groups, and gender distribution.
 
 ## 📊 Dashboard Overview
 
@@ -49,18 +49,4 @@ You can download the Power BI file [here](https://app.powerbi.com/links/vBXKnKDs
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./Jupiter%20clothing.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
- Click [here](https://app.powerbi.com/links/vBXKnKDsGf?ctid=e1382191-cd3f-4dd9-a1c3-0ceb4f0065f1&pbi_source=linkShare)
+![Dashboard Screenshot](https://github.com/Tobbysam247/Jupiter-Clothing/blob/main/Jupiter%20clothing.jpg?raw=true)

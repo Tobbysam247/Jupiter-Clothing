@@ -1,8 +1,8 @@
-# 🧥 Jupiter Clothing Sales Performance Dashboard (2022)
+# Jupiter Clothing Sales Performance Dashboard (2022)
 
-This project analyzes the **Sales performance of Jupiter Clothing for the year ended 2022** using **Power BI**. The dashboard provides visual insights into sales trends, customer behaviour, and product performance across multiple dimensions including sales channels, product categories, sizes, age groups, and gender distribution.
+This project analyzed the **Sales performance of Jupiter Clothing for the year ended 2022** using Power BI. The dashboard provides visual insights into sales trends, customer behaviour, and product performance across multiple dimensions including sales channels, product categories, sizes, age groups, and gender distribution.
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The Power BI dashboard highlights:
 
@@ -15,7 +15,7 @@ The Power BI dashboard highlights:
 - **Major Customer Group**: Women (64.05%)  
 - **Age Group with Highest Sales**: 19-35 years - £9.1M  
 
-## 🧹 Data Cleaning & Transformation
+## Data Cleaning & Transformation
 
 The raw data was provided in an **Excel spreadsheet**, which required cleaning and transformation before analysis. The steps included:
 
@@ -27,7 +27,7 @@ The raw data was provided in an **Excel spreadsheet**, which required cleaning a
 
 All transformations were performed using **Power BI’s Power Query Editor**.
 
-## 🧠 Analysis & Insights
+## Analysis & Insights
 
 With a combination of Bar charts, Donut charts, and Slicers, the dashboard enables the following insights:
 
@@ -37,16 +37,23 @@ With a combination of Bar charts, Donut charts, and Slicers, the dashboard enabl
 - **Sales by Size**: Medium and Large sizes are the most in-demand.
 - **Interactive Filtering**: Users can filter the dashboard by delivery status, gender, or category.
 
-## 💻 Tools Used
+## Tools Used
 
 - Power BI Desktop
 - Microsoft Excel
 - DAX (Data Analysis Expressions)
 
-## 🔗 Project Access
+## Project Access
 
-You can download the Power BI file [here](https://app.powerbi.com/links/vBXKnKDsGf?ctid=e1382191-cd3f-4dd9-a1c3-0ceb4f0065f1&pbi_source=linkShare)
+Download the Power BI file [here](https://app.powerbi.com/links/vBXKnKDsGf?ctid=e1382191-cd3f-4dd9-a1c3-0ceb4f0065f1&pbi_source=linkShare)
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Tobbysam247/Jupiter-Clothing/blob/main/Jupiter%20clothing.jpg?raw=true)
+![Jupiter clothing](https://github.com/user-attachments/assets/cd174ceb-f70b-48e3-bda8-bf882498f41b)
+
+      Author
+-  **Oluwatobi Akinwumi**
+-  Auditor & Data Analyst
+- 📍 Abuja, Nigeria
+-  +2348064549683
+-  📧 tobbysam247@gmail.com
